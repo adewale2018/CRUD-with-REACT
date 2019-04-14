@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+}
+
+h1{
+  color: #fff;
+  letter-spacing: 2px;
+  border: 1px dashed #fff;
+  border-radius: 25px;
+  padding: 20px;
+  background-color: #0071B8;
+  margin-bottom: 30px;
+  font-family: monospace;
+  font-size: 30px;
+}
+
+h3{
+  color: #0071B8;
+  font-size: 25px;
+  font-family: monospace;
+}
+input{
+  border: 1px solid green;
+  font-size: 15px;
+  color: green;
+  border-radius: 20px;
+  outline: none;
+  margin-right: 10px;
+  height: 25px;
+  margin-bottom: 20px;
+  padding: 10px 20px;
+}
+
+.addBtn{
+  background-color: green;
+  color: #fff;
+  padding: 10px;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  font-size: 15px;
+  display: inline-block;
+  margin-bottom: 15px;
+  outline: none;
+}
+.body{
+  color: #0071B8;
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+.edit{
+  color: #fff;
+  background-color: green;
+  padding: 5px;
+  font-size: 15px;
+}
+.delete{
+  background-color: red;
+  padding: 5px;
+  color: #fff;
+  font-size: 15px;
+}
