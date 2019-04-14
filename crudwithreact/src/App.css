@@ -54,10 +54,12 @@ input{
   background-color: green;
   padding: 5px;
   font-size: 15px;
+  display: inline-block;
 }
 .delete{
   background-color: red;
   padding: 5px;
   color: #fff;
   font-size: 15px;
+  display: inline-block;
 }

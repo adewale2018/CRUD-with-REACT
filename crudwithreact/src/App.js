@@ -4,10 +4,10 @@ import AddProduct from './AddProduct';
 import './App.css';
 
 const products = [
-  {id: '18wa34', name: 'iPad ', price: '$1.2k'},
-  {id: '49zq15', name: 'iPhone8', price: '$1.5k'},
-  {id: '90yb48', name: 'Samsung', price: '$1k'},
-  {id: '98yd21', name: 'Android', price: '$0.5k'}
+  {name: 'iPad ', price: '$1.2k'},
+  {name: 'iPhone8', price: '$1.5k'},
+  {name: 'Samsung', price: '$1k'},
+  {name: 'Android', price: '$0.5k'}
 ]
 
 localStorage.setItem('products', JSON.stringify(products));
